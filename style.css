@@ -1,0 +1,21 @@
+.h1 {
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: darkgoldenrod;
+    outline: 5ch;
+    inline-size: 5ch;
+}
+
+.p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+    text-align: initial;
+    color:black;
+    margin: 10%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 02%;
+    margin-bottom: 02%;
+
+}
